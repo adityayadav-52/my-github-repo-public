@@ -1,5 +1,5 @@
 # This is Documentation of Learninig JavaScript
-## Topic 1 : Working with window.object
+## Topic 1 : Working with window.alert
 ### How to show alert
 
 ~~~
